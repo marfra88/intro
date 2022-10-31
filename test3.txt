@@ -1,2 +1,1 @@
-Another feature from feature2 branch
 I am the 2nd line from main branch
