@@ -1,2 +1,1 @@
-Another feature from feature2 branch
-I am line 2 from the feture 4 branch
+I am the 2nd line from main branch
